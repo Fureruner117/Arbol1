@@ -32,7 +32,7 @@ void menu(){
 		cout<<"\t ..:::MENU:::.."<<endl;
 		cout<<"1.- Insertar nodo"<<endl;
 		cout<<"2.- Mostrar Arbol"<<endl;
-		cout<<"2.- Salir"<<endl;
+		cout<<"3.- Salir"<<endl;
 		cout<<"Seleccione una opcion -->";
 		cin>>opcion;
 		
